@@ -22,7 +22,7 @@ This app is useful for learning SwiftUI fundamentals like state management, navi
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 -  **SwiftUI**
 -  Architecture: MVVM
